@@ -1,3 +1,34 @@
+Building a database schema for job listings and applications
+
+Creating models, controllers, and views for job listings and applications
+
+Implementing user authentication and authorization
+
+Implementing search and filtering functionality for job listings
+
+Building a dashboard for employers
+
+Deploying the job portal to a web server
+
+Handling file uploads and deleting and updating them
+
+Validations with requests
+
+Security tips and tricks
+
+Laravel installation and setup
+
+Laravel installation and setup
+
+Work with Middlewares and Guards
+
+Integrate your own theme easily and so much more
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
